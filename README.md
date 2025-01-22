@@ -1,8 +1,9 @@
 <h1 align="center">DevLinks</h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.  <br/>
+Me ajude dando uma estrela no projeto <br/>
+  
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
